@@ -1,0 +1,4 @@
+#Fri Oct 23 20:39:05 BST 2020
+base.0=/mnt/0f825e86-70ba-4fe7-b26a-bb5bcc4fb401/Joe/Documents/GitHub/ColourWheel/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
